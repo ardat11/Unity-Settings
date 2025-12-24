@@ -40,4 +40,3 @@ A modular, high-performance, and developer-friendly **Settings Menu System** for
 This project is licensed under the MIT License - feel free to use it in your personal or commercial projects.
 
 ---
-*Developed by a Mathematical Engineering student & Unity Developer.*
