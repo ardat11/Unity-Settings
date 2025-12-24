@@ -1,0 +1,25 @@
+Key,Turkish,English,Spanish,French,German,Italian
+tr,Türkçe,Turkish,turco,turc,Türkisch,turco
+en,İngilizce,English,Inglés,Anglais,Englisch,Inglese
+es,İspanyol,Spanish,Español,Espagnol,Spanisch,spagnolo
+fr,Fransızca,French,Francés,Français,Französisch,francese
+de,Almanca,German,Alemán,Allemand,Deutsch,tedesco
+it,İtalyan,Italian,italiano,italien,Italienisch,Italiano
+,,,,,,
+settings.general,Genel,General,General,Général,Allgemein,Generale
+settings.video,Video,Video,Video,Vidéo,Video,Video
+settings.audio,Ses,Audio,Audio,Audio,Audio,Audio
+settings.other,Diğer,Other,Otro,Autre,Andere,Altro
+,,,#VALUE!,,,
+settings.resolution,Çözünürlük,Resolution,Resolución,Résolution,Auflösung,Risoluzione
+settings.refreshrate,Yenileme Hızı,Refresh Rate,Frecuencia de actualización,Taux de rafraîchissement,Bildwiederholfrequenz,Frequenza di aggiornamento
+settings.quality,Kalite,Quality,Calidad,Qualité,Qualität,Qualità
+settings.vsync,V-Senkronizasyonu,V-Sync,Sincronización vertical,V-Sync,V-Sync,Sincronizzazione verticale
+settings.fullscreen,Tam ekran,Full Screen,Pantalla completa,Plein écran,Vollbildmodus,A schermo intero
+settings.language,Dil,Language,Idioma,Langue,Sprache,Lingua
+settings.fov,Görüş Alanı,Field of View,Campo de visión,Champ de vision,Sichtfeld,Campo visivo
+settings.sensitivity,Hassasiyet,Sensitivity,Sensibilidad,Sensibilité,Empfindlichkeit,Sensibilità
+settings.master,Usta,Master,Maestro,Maître,Master,Maestro
+settings.sfx,SFX,SFX,Efectos de sonido,SFX,SFX,Effetti sonori
+settings.music,Müzik,Music,Música,Musique,Musik,Musica
+settings.apply,Uygula,Apply,Aplicar,Appliquer,Anwenden,Fare domanda a
